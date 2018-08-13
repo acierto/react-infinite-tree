@@ -36,11 +36,11 @@ export default {
             commonjs: 'react-dom',
             amd: 'react-dom'
         },
-        'infinite-tree': {
+        'xl-infinite-tree': {
             root: 'InfiniteTree',
-            commonjs2: 'infinite-tree',
-            commonjs: 'infinite-tree',
-            amd: 'infinite-tree'
+            commonjs2: 'xl-infinite-tree',
+            commonjs: 'xl-infinite-tree',
+            amd: 'xl-infinite-tree'
         }
     }
 };
